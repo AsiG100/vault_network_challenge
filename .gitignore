@@ -1,0 +1,8 @@
+.env
+output.json
+performance.csv
+__pycache__/
+.pytest_cache/
+.coverage
+htmlcov/
+*.pyc
